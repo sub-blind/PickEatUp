@@ -15,7 +15,7 @@
         android:textColor="@color/black"
         android:textSize="10pt"
         android:text="O n A i r"
-        android:textAlignment="center"
+        android:textAlignment ="center"
         android:background="#aaddff"/>
 
     <LinearLayout
